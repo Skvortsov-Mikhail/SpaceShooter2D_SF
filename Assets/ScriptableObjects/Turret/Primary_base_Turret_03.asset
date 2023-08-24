@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 390e0c2bc2e77764fbb417d9cef15798, type: 3}
+  m_Name: Primary_base_Turret_03
+  m_EditorClassIdentifier: 
+  m_Mode: 0
+  m_ProjectilePrefab: {fileID: 7026255994827290161, guid: cb1f17bf15d53b942bb204c2704f1173, type: 3}
+  m_RateOfFire: 0.1
+  m_EnergyUsage: 2
+  m_AmmoUsage: 0
+  m_LaunchSFX: {fileID: 0}

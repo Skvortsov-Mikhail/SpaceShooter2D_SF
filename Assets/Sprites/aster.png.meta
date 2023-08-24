@@ -1,0 +1,1564 @@
+fileFormatVersion: 2
+guid: 27b4a6a827f4f474da4098160f3002c4
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_4
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 784
+        width: 211
+        height: 213
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 598f0f70d09b5654f8efd9b30b7f6e17
+      internalID: -479130441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_7
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 781
+        width: 252
+        height: 221
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9ec00d5f1b3efc4f9e240544c8449ff
+      internalID: -351893319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_9
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 827
+        width: 193
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f749ece6951d13d4f9bf5259bb1f1ace
+      internalID: 1399314466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_12
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 853
+        width: 169
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 391bf8d6fc5c700498c934a47a5bdb09
+      internalID: -2072897222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_19
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 904
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5da8a592ca023624098bb9c304565b47
+      internalID: 899786485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_24
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 826
+        width: 139
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98f8df9b62d16c64d993fc8f69e50631
+      internalID: 1320033972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_35
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 813
+        width: 41
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12420dde8cd49604ca658b9cfb189bc4
+      internalID: 1631694870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_37
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 816
+        width: 27
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b0fb05caa8be604da4a1f94a1029ee2
+      internalID: -537206239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_46
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 712
+        width: 135
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c025a244d5111844dbb2b4deefb63236
+      internalID: -679007026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_47
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 786
+        width: 37
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 699d0a570f8e21b4e87dee56b797a520
+      internalID: 1577470019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_49
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 713
+        width: 134
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89bf9625f53258547ab2e99155854f1f
+      internalID: -796264007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_50
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 788
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85cdce37f21691c40b15fddfc8cc056c
+      internalID: -808872045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_54
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 678
+        width: 136
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f14670742e8d71b4cbfdd3709283e6cf
+      internalID: 1882300324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_66
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 658
+        width: 98
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c9c6aa6cb6b9754197a30553488eef1
+      internalID: 1056786731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_67
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 691
+        width: 100
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae7a23c1d348f284198d91ea18978718
+      internalID: 178722267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_74
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 666
+        width: 115
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85646c7f44f21ed49a80bc297c97ad4f
+      internalID: -688048090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_76
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 708
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb44406012eca9948911f56ae86f5400
+      internalID: -111316792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_81
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 705
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db36633a4123ffa41b717712fe747521
+      internalID: -869837993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_83
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 679
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a254d17e0930fd3469d6332ba49c67a0
+      internalID: 78890150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_85
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 672
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e73eabab57c88e4e9162e9e49718055
+      internalID: -431257619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_94
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 625
+        width: 62
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcb0875919b6c3c4792bc21e80d93283
+      internalID: -1652644405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_99
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 541
+        width: 132
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 542dc569b2df88547a52c152781b9a4a
+      internalID: -1279607866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_101
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 550
+        width: 165
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5764a824efde004eae2adba07a5f937
+      internalID: 696040052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_103
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 557
+        width: 102
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8314649f03617f408449d8d66f14863
+      internalID: -1104781241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_104
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 543
+        width: 107
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d649c999ab0854a4fa7f5618a4447312
+      internalID: -1291309166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_105
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 546
+        width: 99
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8995d364c82d6754ab76df1f5591440d
+      internalID: 246165203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_106
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 590
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea94d4d90fe5d3e43af2f495eb9fb6ec
+      internalID: 1847137751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_107
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 542
+        width: 90
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56320ccdd97646d49b5d2310e953e52b
+      internalID: -391366353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_132
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 268
+        width: 222
+        height: 223
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deb6603a8e7c27a4782682acc0c9745a
+      internalID: -1991781394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_133
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 261
+        width: 249
+        height: 213
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 044d80f95a08a784b80ceeb7438334dd
+      internalID: -1429457514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_137
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 342
+        width: 171
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 890f9b29eeb719c4880c630c6c2f1af7
+      internalID: -1970610664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_138
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 324
+        width: 186
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea4a4ac2a5a3b3740b733994d935f7e9
+      internalID: 1605328417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_139
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 446
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf37c15341e80024fbdc30a15d3427be
+      internalID: 94819790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_172
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 191
+        width: 264
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8da3d0e779643444a931e7f4d1beca3
+      internalID: 1349915822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_173
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 270
+        width: 24
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f133ffd8055f3a4391e109bc7c876b7
+      internalID: 111863000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_174
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 203
+        width: 154
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47442a9d49231b845b4ecdc067b86223
+      internalID: 768512695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_175
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 270
+        width: 50
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42d2611765ba88d4da49292e7817d7bf
+      internalID: 313499852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_184
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 190
+        width: 110
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fec4478465c684469fa2131ccd505e7
+      internalID: 350351997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_187
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 162
+        width: 92
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25145d78c63bca74386a64b030edcf69
+      internalID: -270112982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_188
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 144
+        width: 104
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d948e6f7df8b18a4ca69c3d37a87c5ae
+      internalID: 374547103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_192
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 191
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c38eeeea635dee429f59be9cecf11d4
+      internalID: -28116039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_194
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 197
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 340143272ebd91848a7359c4ecc1a018
+      internalID: -1456055781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_195
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 174
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 538534bb1547ce54daa131f9d4a42c58
+      internalID: -794206940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_197
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 160
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d361ca918273b04d86685d65e0f606a
+      internalID: -10921565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_198
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 167
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2722eef4c802b7446961bf6d6b027690
+      internalID: 686415246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_199
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 156
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 100238e3b3e48ee47885bc853af56bc9
+      internalID: 1650090054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_200
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 150
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c1ae811fb383bb43b86f4ee745ebb0b
+      internalID: -2135604906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_205
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 30
+        width: 145
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb3b748088029f743a04ce3ce4a251fe
+      internalID: 395020389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_206
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 37
+        width: 112
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33bf989d91f364545af0cd42d10d075f
+      internalID: 725436010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_207
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 119
+        width: 46
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeddb23887e9d014ca0859db0fa70487
+      internalID: -1370147582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_210
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 27
+        width: 128
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59ff206ed2ac1f94dbb60413a145abaa
+      internalID: 1217164391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_211
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 120
+        width: 68
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e555d3623c9c3c341844a47712778d43
+      internalID: 346708577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_212
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 32
+        width: 84
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3f8c9dcdb9028e40be90cf78a699fad
+      internalID: 1845827595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_214
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 42
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bfed99eac06e614886d73002f136b78
+      internalID: 1528887284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_215
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 50
+        width: 73
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2057f986ec7ef4f4bbce637f4902d85d
+      internalID: -1891050649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_216
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 34
+        width: 44
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b393a8aa0887254b88cb65aa08567b0
+      internalID: -1561358354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_218
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 43
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f369ce23e018cc342b669d5fe7637d4c
+      internalID: -1898535855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_209: 33366860
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_170: 1419982765
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_16: 1594941783
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_101: 696040052
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_3: -116026459
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_118: 1749512762
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_90: -557398201
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_142: 156925753
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_165: -460934779
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_175: 313499852
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_188: 374547103
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_193: 31671140
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_58: -1317869584
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_114: 1260661612
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_121: 940534392
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_202: 1078980811
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_197: -10921565
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_18: -1084079833
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_105: 246165203
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_103: -1104781241
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_0: 1421332125
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_181: -1963836754
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_69: 327585409
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_76: -111316792
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_143: 553899138
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_211: 346708577
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_23: -784297361
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_31: -15136621
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_45: 32601009
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_213: -1525357587
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_78: 77457679
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_4: -479130441
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_135: 1445312143
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_147: -136967059
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_29: -1045953792
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_57: -1242552010
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_112: -1268614339
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_224: 209779659
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_71: -750690400
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_91: 373774700
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_63: 1613261855
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_81: -869837993
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_191: -741700817
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_227: -1806291336
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_14: -1550079549
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_30: 1844729874
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_46: -679007026
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_49: -796264007
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_229: -1131250408
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_123: -448486518
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_136: 1609166785
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_13: -2045257099
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_33: -1866245580
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_74: -688048090
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_82: -1148463450
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_68: -534630465
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_55: -1204272721
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_66: 1056786731
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_231: -2114088286
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_43: -728429542
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_6: -1213229815
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_174: 768512695
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_217: -702424442
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_80: -65187148
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_67: 178722267
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_137: -1970610664
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_5: -444661688
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_10: -1855852086
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_54: 1882300324
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_157: -789980251
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_70: -453596849
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_150: 944667885
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_220: -2025485111
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_182: -2122217166
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_96: 1320770985
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_176: 502352
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_47: 1577470019
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_72: -26674579
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_60: -1341889059
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_186: -1841280116
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_1: -8718823
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_24: 1320033972
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_25: 794236263
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_192: -28116039
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_73: 1881547645
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_160: -841133526
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_56: -1006304627
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_34: 1135093875
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_50: -808872045
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_75: 1169079633
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_196: -958205113
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_201: -928346917
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_171: -1193257501
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_39: 1391167508
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_126: -502106969
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_106: 1847137751
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_156: 764535054
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_61: -1699204255
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_162: 1727735353
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_95: 327365949
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_37: -537206239
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_144: 414479289
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_89: -669944666
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_198: 686415246
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_9: 1399314466
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_87: 1644245396
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_134: 2135577040
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_158: 856056679
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_100: -1477082103
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_152: 1585924527
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_19: 899786485
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_203: -855193838
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_41: 694346570
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_44: 277541801
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_166: -979191580
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_200: -2135604906
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_83: 78890150
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_159: 2081828095
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_214: 1528887284
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_184: 350351997
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_20: -1361971498
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_119: 1185920063
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_206: 725436010
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_99: -1279607866
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_88: 1326336418
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_153: 1321513680
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_173: 111863000
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_21: -1206299150
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_40: -822282893
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_28: 756692961
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_133: -1429457514
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_132: -1991781394
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_129: -2076797055
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_38: 1662957373
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_107: -391366353
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_97: -840151919
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_22: 84816008
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_180: 1479181765
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_120: 1318843138
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_102: 2060183084
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_111: -352303996
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_62: -1983261078
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_194: -1456055781
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_94: -1652644405
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_110: 182342260
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_219: -1422881972
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_17: -1295252220
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_216: -1561358354
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_98: 1816036303
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_155: -4340647
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_93: -2127854175
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_77: 562202611
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_164: 924629179
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_146: 1974067994
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_195: -794206940
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_172: 1349915822
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_218: -1898535855
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_163: 340584064
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_228: 1794633684
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_205: 395020389
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_215: -1891050649
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_145: -1189810015
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_117: -1064407141
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_225: -818122213
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_161: -1775784449
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_79: 97915390
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_130: 46680829
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_222: 1302946975
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_51: -1595789207
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_85: -431257619
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_108: -530966057
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_128: -891097826
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_210: 1217164391
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_7: -351893319
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_36: 797550459
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_104: -1291309166
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_154: 2104744937
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_151: 205427770
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_139: 94819790
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_64: 1193641780
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_179: 400532012
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_183: 750768402
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_53: -1125864672
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_140: -1809336866
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_221: 1032419619
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_35: 1631694870
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_189: 1142336098
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_116: 646431227
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_2: 343747873
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_199: 1650090054
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_168: 160932784
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_131: -570369260
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_223: 759764469
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_86: -1563750266
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_204: 1270435620
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_125: -149355339
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_177: 789918438
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_12: -2072897222
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_84: -1994937383
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_113: -1822820384
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_32: 1662520164
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_124: -1744621881
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_26: -1234914779
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_207: -1370147582
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_109: -1994666006
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_149: 1875797921
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_148: -956516196
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_138: 1605328417
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_52: 567195763
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_115: 420350519
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_11: 1747876283
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_226: 366557253
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_190: -1920432180
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_8: 37937949
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_141: -1444109311
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_185: -1032932203
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_208: -344954555
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_230: -1009867693
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_15: 1984842658
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_187: -270112982
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_122: 1675563795
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_212: 1845827595
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_27: -2124311120
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_92: 921828849
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_65: 1246750182
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_167: -1203774437
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_127: -2032423835
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_59: -181576852
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_48: -127219449
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_178: 524135513
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_169: -1277846452
+      LLlaBePmA_set_of_asteroids_2d_on_a_transparent_background_2f29bb9f-0463-4f7c-a763-a813b18f7afb_42: -1095216794
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
